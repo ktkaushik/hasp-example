@@ -21,11 +21,6 @@ Rendr is a small library from [Airbnb](https://www.airbnb.com) that allows you t
 
         grunt server
 
-Visit the [Rendr CLI](https://github.com/technicolorenvy/rendr-cli) for more details on using this tool to help you while developing your Rendr app.
+## Hasp Usage
 
-Check out the [blog post](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product) for a more thorough introduction to Rendr.
-
-To see how to use Rendr to build a simple web app, check out [airbnb/rendr-app-template](https://github.com/airbnb/rendr-app-template).
-
-
-
+You can see the Hasp usage in the **home controller's** index action.
